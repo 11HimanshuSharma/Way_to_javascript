@@ -1,4 +1,3 @@
-let age = 21;
+let age = 18;
 
-let check = (age >  18) ? "You are eligible to vote" : "You are not eligible to vote";
-console.log(check);
+console.log
